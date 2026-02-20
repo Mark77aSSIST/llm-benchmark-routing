@@ -1,0 +1,10 @@
+{
+  "min_models": 3,
+  "min_query_length": 10,
+  "filter_no_model_correct": true,
+  "fillna_strategy": "keep_nan",
+  "random_state": 42,
+  "final_samples": 6348,
+  "total_candidates": 7104,
+  "exclusion_rate": 10.641891891891897
+}

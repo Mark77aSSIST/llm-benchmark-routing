@@ -1,0 +1,9 @@
+{
+  "total_candidates": 7104,
+  "excluded_no_model_correct": 0,
+  "excluded_few_models": 190,
+  "excluded_short_query": 0,
+  "excluded_invalid_predictions": 0,
+  "excluded_all_wrong": 566,
+  "final_samples": 6348
+}

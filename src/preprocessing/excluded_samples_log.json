@@ -1,0 +1,4538 @@
+[
+  {
+    "sample_id": "Chinese_character_riddles.dev.84",
+    "benchmark": "Chinese_character_riddles",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "Chinese_character_riddles.dev.72",
+    "benchmark": "Chinese_character_riddles",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "Chinese_character_riddles.dev.5",
+    "benchmark": "Chinese_character_riddles",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "Chinese_character_riddles.dev.49",
+    "benchmark": "Chinese_character_riddles",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "Chinese_character_riddles.dev.44",
+    "benchmark": "Chinese_character_riddles",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "Chinese_character_riddles.dev.29",
+    "benchmark": "Chinese_character_riddles",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "Chinese_character_riddles.dev.81",
+    "benchmark": "Chinese_character_riddles",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "Chinese_character_riddles.dev.18",
+    "benchmark": "Chinese_character_riddles",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "Chinese_character_riddles.dev.0",
+    "benchmark": "Chinese_character_riddles",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "Chinese_character_riddles.dev.75",
+    "benchmark": "Chinese_character_riddles",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "Chinese_character_riddles.dev.39",
+    "benchmark": "Chinese_character_riddles",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "Chinese_character_riddles.dev.90",
+    "benchmark": "Chinese_character_riddles",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "Chinese_character_riddles.dev.12",
+    "benchmark": "Chinese_character_riddles",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "Chinese_character_riddles.dev.78",
+    "benchmark": "Chinese_character_riddles",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "Chinese_character_riddles.dev.79",
+    "benchmark": "Chinese_character_riddles",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "Chinese_character_riddles.dev.37",
+    "benchmark": "Chinese_character_riddles",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "Chinese_character_riddles.dev.89",
+    "benchmark": "Chinese_character_riddles",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "Chinese_character_riddles.dev.32",
+    "benchmark": "Chinese_character_riddles",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "Chinese_character_riddles.dev.47",
+    "benchmark": "Chinese_character_riddles",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "Chinese_character_riddles.dev.71",
+    "benchmark": "Chinese_character_riddles",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "Chinese_character_riddles.dev.22",
+    "benchmark": "Chinese_character_riddles",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "Chinese_character_riddles.dev.45",
+    "benchmark": "Chinese_character_riddles",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "Chinese_character_riddles.dev.96",
+    "benchmark": "Chinese_character_riddles",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "Chinese_character_riddles.dev.17",
+    "benchmark": "Chinese_character_riddles",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "Chinese_character_riddles.dev.51",
+    "benchmark": "Chinese_character_riddles",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "Chinese_character_riddles.dev.34",
+    "benchmark": "Chinese_character_riddles",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "Chinese_character_riddles.dev.93",
+    "benchmark": "Chinese_character_riddles",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "Chinese_character_riddles.dev.13",
+    "benchmark": "Chinese_character_riddles",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "Chinese_character_riddles.dev.69",
+    "benchmark": "Chinese_character_riddles",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "Chinese_character_riddles.dev.68",
+    "benchmark": "Chinese_character_riddles",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "Chinese_character_riddles.dev.40",
+    "benchmark": "Chinese_character_riddles",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "Chinese_character_riddles.dev.53",
+    "benchmark": "Chinese_character_riddles",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "Chinese_character_riddles.dev.4",
+    "benchmark": "Chinese_character_riddles",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "Chinese_character_riddles.dev.15",
+    "benchmark": "Chinese_character_riddles",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "Chinese_character_riddles.dev.33",
+    "benchmark": "Chinese_character_riddles",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "Chinese_character_riddles.dev.82",
+    "benchmark": "Chinese_character_riddles",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "Chinese_character_riddles.dev.31",
+    "benchmark": "Chinese_character_riddles",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "Chinese_character_riddles.dev.65",
+    "benchmark": "Chinese_character_riddles",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "Chinese_character_riddles.dev.30",
+    "benchmark": "Chinese_character_riddles",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "Chinese_character_riddles.dev.24",
+    "benchmark": "Chinese_character_riddles",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "Chinese_character_riddles.dev.43",
+    "benchmark": "Chinese_character_riddles",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "Chinese_character_riddles.dev.16",
+    "benchmark": "Chinese_character_riddles",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "Chinese_character_riddles.dev.8",
+    "benchmark": "Chinese_character_riddles",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "Chinese_character_riddles.dev.67",
+    "benchmark": "Chinese_character_riddles",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "Chinese_character_riddles.dev.99",
+    "benchmark": "Chinese_character_riddles",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "Chinese_character_riddles.dev.58",
+    "benchmark": "Chinese_character_riddles",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "Chinese_character_riddles.dev.50",
+    "benchmark": "Chinese_character_riddles",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "Chinese_character_riddles.dev.70",
+    "benchmark": "Chinese_character_riddles",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "Chinese_character_riddles.dev.64",
+    "benchmark": "Chinese_character_riddles",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "Chinese_character_riddles.dev.97",
+    "benchmark": "Chinese_character_riddles",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "Chinese_character_riddles.dev.80",
+    "benchmark": "Chinese_character_riddles",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "Chinese_character_riddles.dev.52",
+    "benchmark": "Chinese_character_riddles",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "Chinese_character_riddles.dev.98",
+    "benchmark": "Chinese_character_riddles",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "Chinese_character_riddles.dev.38",
+    "benchmark": "Chinese_character_riddles",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "Chinese_character_riddles.dev.94",
+    "benchmark": "Chinese_character_riddles",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "Chinese_character_riddles.dev.62",
+    "benchmark": "Chinese_character_riddles",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "Chinese_character_riddles.dev.66",
+    "benchmark": "Chinese_character_riddles",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "Chinese_character_riddles.dev.85",
+    "benchmark": "Chinese_character_riddles",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "Chinese_character_riddles.dev.42",
+    "benchmark": "Chinese_character_riddles",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "Chinese_character_riddles.dev.1",
+    "benchmark": "Chinese_character_riddles",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "Chinese_character_riddles.dev.56",
+    "benchmark": "Chinese_character_riddles",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "Chinese_character_riddles.dev.28",
+    "benchmark": "Chinese_character_riddles",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "Chinese_character_riddles.dev.3",
+    "benchmark": "Chinese_character_riddles",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "Chinese_character_riddles.dev.88",
+    "benchmark": "Chinese_character_riddles",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "Chinese_character_riddles.dev.76",
+    "benchmark": "Chinese_character_riddles",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "Chinese_character_riddles.dev.87",
+    "benchmark": "Chinese_character_riddles",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "Chinese_character_riddles.dev.83",
+    "benchmark": "Chinese_character_riddles",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "Chinese_character_riddles.dev.27",
+    "benchmark": "Chinese_character_riddles",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "Chinese_character_riddles.dev.63",
+    "benchmark": "Chinese_character_riddles",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "Chinese_character_riddles.dev.73",
+    "benchmark": "Chinese_character_riddles",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "Chinese_character_riddles.dev.21",
+    "benchmark": "Chinese_character_riddles",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "Chinese_character_riddles.dev.55",
+    "benchmark": "Chinese_character_riddles",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "accounting_audit.dev.20",
+    "benchmark": "accounting_audit",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "accounting_audit.dev.11",
+    "benchmark": "accounting_audit",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "arc-challenge.test.5",
+    "benchmark": "arc-challenge",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "bias_detection.dev.45",
+    "benchmark": "bias_detection",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "bias_detection.dev.227",
+    "benchmark": "bias_detection",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "bias_detection.dev.102",
+    "benchmark": "bias_detection",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "bias_detection.dev.224",
+    "benchmark": "bias_detection",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "bias_detection.dev.128",
+    "benchmark": "bias_detection",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "bias_detection.dev.197",
+    "benchmark": "bias_detection",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "bias_detection.dev.152",
+    "benchmark": "bias_detection",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "bias_detection.dev.182",
+    "benchmark": "bias_detection",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "bias_detection.dev.91",
+    "benchmark": "bias_detection",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "bias_detection.dev.196",
+    "benchmark": "bias_detection",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "bias_detection.dev.71",
+    "benchmark": "bias_detection",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "bias_detection.dev.172",
+    "benchmark": "bias_detection",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "bias_detection.dev.26",
+    "benchmark": "bias_detection",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "bias_detection.dev.118",
+    "benchmark": "bias_detection",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "bias_detection.dev.12",
+    "benchmark": "bias_detection",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "bias_detection.dev.64",
+    "benchmark": "bias_detection",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "bias_detection.dev.18",
+    "benchmark": "bias_detection",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "bias_detection.dev.79",
+    "benchmark": "bias_detection",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "bias_detection.dev.256",
+    "benchmark": "bias_detection",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "bias_detection.dev.103",
+    "benchmark": "bias_detection",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "bias_detection.dev.228",
+    "benchmark": "bias_detection",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "bias_detection.dev.223",
+    "benchmark": "bias_detection",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "bias_detection.dev.111",
+    "benchmark": "bias_detection",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "bias_detection.dev.107",
+    "benchmark": "bias_detection",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "bias_detection.dev.131",
+    "benchmark": "bias_detection",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "bias_detection.dev.112",
+    "benchmark": "bias_detection",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "bias_detection.dev.20",
+    "benchmark": "bias_detection",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "bias_detection.dev.98",
+    "benchmark": "bias_detection",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "bias_detection.dev.32",
+    "benchmark": "bias_detection",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "bias_detection.dev.199",
+    "benchmark": "bias_detection",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "bias_detection.dev.114",
+    "benchmark": "bias_detection",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "bias_detection.dev.41",
+    "benchmark": "bias_detection",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "bias_detection.dev.186",
+    "benchmark": "bias_detection",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "bias_detection.dev.15",
+    "benchmark": "bias_detection",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "bias_detection.dev.97",
+    "benchmark": "bias_detection",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "bias_detection.dev.230",
+    "benchmark": "bias_detection",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese-lantern-riddles.dev.0",
+    "benchmark": "chinese-lantern-riddles",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese-lantern-riddles.dev.7",
+    "benchmark": "chinese-lantern-riddles",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese-lantern-riddles.dev.5",
+    "benchmark": "chinese-lantern-riddles",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese-lantern-riddles.dev.16",
+    "benchmark": "chinese-lantern-riddles",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese-lantern-riddles.dev.13",
+    "benchmark": "chinese-lantern-riddles",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese-lantern-riddles.dev.11",
+    "benchmark": "chinese-lantern-riddles",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese-lantern-riddles.dev.8",
+    "benchmark": "chinese-lantern-riddles",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese-lantern-riddles.dev.3",
+    "benchmark": "chinese-lantern-riddles",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese-lantern-riddles.dev.17",
+    "benchmark": "chinese-lantern-riddles",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese-lantern-riddles.dev.9",
+    "benchmark": "chinese-lantern-riddles",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese-lantern-riddles.dev.12",
+    "benchmark": "chinese-lantern-riddles",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese-lantern-riddles.dev.2",
+    "benchmark": "chinese-lantern-riddles",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese-lantern-riddles.dev.15",
+    "benchmark": "chinese-lantern-riddles",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese-lantern-riddles.dev.4",
+    "benchmark": "chinese-lantern-riddles",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese-lantern-riddles.dev.14",
+    "benchmark": "chinese-lantern-riddles",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese-remainder-theorem.dev.4",
+    "benchmark": "chinese-remainder-theorem",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese-remainder-theorem.dev.6",
+    "benchmark": "chinese-remainder-theorem",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese-remainder-theorem.dev.8",
+    "benchmark": "chinese-remainder-theorem",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese-remainder-theorem.dev.13",
+    "benchmark": "chinese-remainder-theorem",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese-remainder-theorem.dev.3",
+    "benchmark": "chinese-remainder-theorem",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese-remainder-theorem.dev.10",
+    "benchmark": "chinese-remainder-theorem",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese-remainder-theorem.dev.1",
+    "benchmark": "chinese-remainder-theorem",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese-remainder-theorem.dev.9",
+    "benchmark": "chinese-remainder-theorem",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese-remainder-theorem.dev.12",
+    "benchmark": "chinese-remainder-theorem",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese-remainder-theorem.dev.5",
+    "benchmark": "chinese-remainder-theorem",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese-remainder-theorem.dev.7",
+    "benchmark": "chinese-remainder-theorem",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese-remainder-theorem.dev.11",
+    "benchmark": "chinese-remainder-theorem",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese-remainder-theorem.dev.14",
+    "benchmark": "chinese-remainder-theorem",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese_ancient_masterpieces_dynasty.dev.13",
+    "benchmark": "chinese_ancient_masterpieces_dynasty",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese_ancient_masterpieces_dynasty.dev.12",
+    "benchmark": "chinese_ancient_masterpieces_dynasty",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese_ancient_poetry.dev.23",
+    "benchmark": "chinese_ancient_poetry",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese_ancient_poetry.dev.8",
+    "benchmark": "chinese_ancient_poetry",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese_ancient_poetry.dev.19",
+    "benchmark": "chinese_ancient_poetry",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese_ancient_poetry.dev.17",
+    "benchmark": "chinese_ancient_poetry",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese_ancient_poetry.dev.20",
+    "benchmark": "chinese_ancient_poetry",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese_ancient_poetry.dev.1",
+    "benchmark": "chinese_ancient_poetry",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese_ancient_poetry.dev.7",
+    "benchmark": "chinese_ancient_poetry",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese_ancient_poetry.dev.13",
+    "benchmark": "chinese_ancient_poetry",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese_ancient_poetry.dev.10",
+    "benchmark": "chinese_ancient_poetry",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese_ancient_poetry.dev.22",
+    "benchmark": "chinese_ancient_poetry",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese_ancient_poetry.dev.12",
+    "benchmark": "chinese_ancient_poetry",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese_ancient_poetry.dev.24",
+    "benchmark": "chinese_ancient_poetry",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese_ancient_poetry.dev.6",
+    "benchmark": "chinese_ancient_poetry",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese_ancient_poetry.dev.3",
+    "benchmark": "chinese_ancient_poetry",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese_ancient_poetry.dev.9",
+    "benchmark": "chinese_ancient_poetry",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese_ancient_poetry.dev.15",
+    "benchmark": "chinese_ancient_poetry",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese_ancient_poetry.dev.18",
+    "benchmark": "chinese_ancient_poetry",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese_ancient_poetry.dev.21",
+    "benchmark": "chinese_ancient_poetry",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese_ancient_poetry.dev.4",
+    "benchmark": "chinese_ancient_poetry",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese_ancient_poetry.dev.14",
+    "benchmark": "chinese_ancient_poetry",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese_chu_ci.dev.4",
+    "benchmark": "chinese_chu_ci",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese_chu_ci.dev.6",
+    "benchmark": "chinese_chu_ci",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese_chu_ci.dev.8",
+    "benchmark": "chinese_chu_ci",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese_chu_ci.dev.13",
+    "benchmark": "chinese_chu_ci",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese_chu_ci.dev.3",
+    "benchmark": "chinese_chu_ci",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese_chu_ci.dev.5",
+    "benchmark": "chinese_chu_ci",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese_chu_ci.dev.7",
+    "benchmark": "chinese_chu_ci",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese_chu_ci.dev.11",
+    "benchmark": "chinese_chu_ci",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese_chu_ci.dev.14",
+    "benchmark": "chinese_chu_ci",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese_famous_novel.dev.0",
+    "benchmark": "chinese_famous_novel",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese_famous_novel.dev.7",
+    "benchmark": "chinese_famous_novel",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese_famous_novel.dev.16",
+    "benchmark": "chinese_famous_novel",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese_famous_novel.dev.11",
+    "benchmark": "chinese_famous_novel",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese_famous_novel.dev.15",
+    "benchmark": "chinese_famous_novel",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese_famous_novel.dev.18",
+    "benchmark": "chinese_famous_novel",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese_famous_novel.dev.4",
+    "benchmark": "chinese_famous_novel",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese_hard_translations.dev.0",
+    "benchmark": "chinese_hard_translations",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese_hard_translations.dev.13",
+    "benchmark": "chinese_hard_translations",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese_hard_translations.dev.19",
+    "benchmark": "chinese_hard_translations",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese_hard_translations.dev.11",
+    "benchmark": "chinese_hard_translations",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese_hard_translations.dev.7",
+    "benchmark": "chinese_hard_translations",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese_hard_translations.dev.20",
+    "benchmark": "chinese_hard_translations",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese_hard_translations.dev.10",
+    "benchmark": "chinese_hard_translations",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese_homonym.dev.19",
+    "benchmark": "chinese_homonym",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese_idioms.dev.4",
+    "benchmark": "chinese_idioms",
+    "reason": "few_models",
+    "num_models": 1
+  },
+  {
+    "sample_id": "chinese_idioms.dev.6",
+    "benchmark": "chinese_idioms",
+    "reason": "few_models",
+    "num_models": 2
+  },
+  {
+    "sample_id": "chinese_idioms.dev.8",
+    "benchmark": "chinese_idioms",
+    "reason": "few_models",
+    "num_models": 2
+  },
+  {
+    "sample_id": "chinese_idioms.dev.3",
+    "benchmark": "chinese_idioms",
+    "reason": "few_models",
+    "num_models": 1
+  },
+  {
+    "sample_id": "chinese_idioms.dev.9",
+    "benchmark": "chinese_idioms",
+    "reason": "few_models",
+    "num_models": 2
+  },
+  {
+    "sample_id": "chinese_idioms.dev.12",
+    "benchmark": "chinese_idioms",
+    "reason": "few_models",
+    "num_models": 2
+  },
+  {
+    "sample_id": "chinese_idioms.dev.5",
+    "benchmark": "chinese_idioms",
+    "reason": "all_models_wrong",
+    "num_models": 7
+  },
+  {
+    "sample_id": "chinese_idioms.dev.7",
+    "benchmark": "chinese_idioms",
+    "reason": "few_models",
+    "num_models": 0
+  },
+  {
+    "sample_id": "chinese_idioms.dev.11",
+    "benchmark": "chinese_idioms",
+    "reason": "all_models_wrong",
+    "num_models": 3
+  },
+  {
+    "sample_id": "chinese_modern_poem_identification.test.4",
+    "benchmark": "chinese_modern_poem_identification",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese_modern_poem_identification.test.1",
+    "benchmark": "chinese_modern_poem_identification",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese_modern_poem_identification.test.19",
+    "benchmark": "chinese_modern_poem_identification",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese_modern_poem_identification.test.5",
+    "benchmark": "chinese_modern_poem_identification",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese_modern_poem_identification.test.20",
+    "benchmark": "chinese_modern_poem_identification",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese_modern_poem_identification.test.17",
+    "benchmark": "chinese_modern_poem_identification",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese_modern_poem_identification.test.9",
+    "benchmark": "chinese_modern_poem_identification",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese_modern_poem_identification.test.2",
+    "benchmark": "chinese_modern_poem_identification",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese_modern_poem_identification.test.8",
+    "benchmark": "chinese_modern_poem_identification",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese_modern_poem_identification.test.14",
+    "benchmark": "chinese_modern_poem_identification",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese_poem.dev.4",
+    "benchmark": "chinese_poem",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese_poem.dev.0",
+    "benchmark": "chinese_poem",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese_poem.dev.13",
+    "benchmark": "chinese_poem",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese_poem.dev.10",
+    "benchmark": "chinese_poem",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese_poem.dev.1",
+    "benchmark": "chinese_poem",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese_poem.dev.9",
+    "benchmark": "chinese_poem",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese_poem.dev.12",
+    "benchmark": "chinese_poem",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese_poem.dev.11",
+    "benchmark": "chinese_poem",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese_poem.dev.14",
+    "benchmark": "chinese_poem",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese_shi_jing.test.22",
+    "benchmark": "chinese_shi_jing",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese_shi_jing.test.33",
+    "benchmark": "chinese_shi_jing",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese_shi_jing.test.32",
+    "benchmark": "chinese_shi_jing",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese_shi_jing.test.16",
+    "benchmark": "chinese_shi_jing",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese_shi_jing.test.30",
+    "benchmark": "chinese_shi_jing",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese_shi_jing.test.28",
+    "benchmark": "chinese_shi_jing",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese_shi_jing.test.17",
+    "benchmark": "chinese_shi_jing",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese_shi_jing.test.12",
+    "benchmark": "chinese_shi_jing",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese_shi_jing.test.23",
+    "benchmark": "chinese_shi_jing",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese_shi_jing.test.24",
+    "benchmark": "chinese_shi_jing",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese_shi_jing.test.13",
+    "benchmark": "chinese_shi_jing",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese_shi_jing.test.20",
+    "benchmark": "chinese_shi_jing",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese_shi_jing.test.10",
+    "benchmark": "chinese_shi_jing",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese_shi_jing.test.6",
+    "benchmark": "chinese_shi_jing",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese_shi_jing.test.11",
+    "benchmark": "chinese_shi_jing",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese_shi_jing.test.5",
+    "benchmark": "chinese_shi_jing",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese_shi_jing.test.3",
+    "benchmark": "chinese_shi_jing",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese_shi_jing.test.7",
+    "benchmark": "chinese_shi_jing",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese_shi_jing.test.29",
+    "benchmark": "chinese_shi_jing",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese_shi_jing.test.25",
+    "benchmark": "chinese_shi_jing",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese_shi_jing.test.31",
+    "benchmark": "chinese_shi_jing",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese_shi_jing.test.14",
+    "benchmark": "chinese_shi_jing",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese_shi_jing.test.15",
+    "benchmark": "chinese_shi_jing",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese_shi_jing.test.21",
+    "benchmark": "chinese_shi_jing",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese_shi_jing.test.4",
+    "benchmark": "chinese_shi_jing",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese_song_ci.dev.13",
+    "benchmark": "chinese_song_ci",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese_song_ci.dev.7",
+    "benchmark": "chinese_song_ci",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese_song_ci.dev.10",
+    "benchmark": "chinese_song_ci",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese_song_ci.dev.6",
+    "benchmark": "chinese_song_ci",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese_song_ci.dev.11",
+    "benchmark": "chinese_song_ci",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese_tang_poetries.dev.12",
+    "benchmark": "chinese_tang_poetries",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese_tang_poetries.dev.35",
+    "benchmark": "chinese_tang_poetries",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese_tang_poetries.dev.8",
+    "benchmark": "chinese_tang_poetries",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese_tang_poetries.dev.14",
+    "benchmark": "chinese_tang_poetries",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese_tang_poetries.dev.23",
+    "benchmark": "chinese_tang_poetries",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese_tang_poetries.dev.16",
+    "benchmark": "chinese_tang_poetries",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese_tang_poetries.dev.22",
+    "benchmark": "chinese_tang_poetries",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese_tang_poetries.dev.5",
+    "benchmark": "chinese_tang_poetries",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese_tang_poetries.dev.4",
+    "benchmark": "chinese_tang_poetries",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese_tang_poetries.dev.13",
+    "benchmark": "chinese_tang_poetries",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese_tang_poetries.dev.19",
+    "benchmark": "chinese_tang_poetries",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese_tang_poetries.dev.28",
+    "benchmark": "chinese_tang_poetries",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese_tang_poetries.dev.9",
+    "benchmark": "chinese_tang_poetries",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese_tang_poetries.dev.11",
+    "benchmark": "chinese_tang_poetries",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese_tang_poetries.dev.27",
+    "benchmark": "chinese_tang_poetries",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese_tang_poetries.dev.34",
+    "benchmark": "chinese_tang_poetries",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese_zodiac.dev.320",
+    "benchmark": "chinese_zodiac",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese_zodiac.dev.202",
+    "benchmark": "chinese_zodiac",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese_zodiac.dev.21",
+    "benchmark": "chinese_zodiac",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese_zodiac.dev.359",
+    "benchmark": "chinese_zodiac",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese_zodiac.dev.20",
+    "benchmark": "chinese_zodiac",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese_zodiac.dev.221",
+    "benchmark": "chinese_zodiac",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese_zodiac.dev.120",
+    "benchmark": "chinese_zodiac",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese_zodiac.dev.24",
+    "benchmark": "chinese_zodiac",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese_zodiac.dev.198",
+    "benchmark": "chinese_zodiac",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese_zodiac.dev.297",
+    "benchmark": "chinese_zodiac",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese_zodiac.dev.311",
+    "benchmark": "chinese_zodiac",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "chinese_zodiac.dev.98",
+    "benchmark": "chinese_zodiac",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "consensus_summary.dev.262",
+    "benchmark": "consensus_summary",
+    "reason": "few_models",
+    "num_models": 1
+  },
+  {
+    "sample_id": "consensus_summary.dev.167",
+    "benchmark": "consensus_summary",
+    "reason": "few_models",
+    "num_models": 0
+  },
+  {
+    "sample_id": "consensus_summary.dev.205",
+    "benchmark": "consensus_summary",
+    "reason": "few_models",
+    "num_models": 2
+  },
+  {
+    "sample_id": "consensus_summary.dev.339",
+    "benchmark": "consensus_summary",
+    "reason": "few_models",
+    "num_models": 2
+  },
+  {
+    "sample_id": "consensus_summary.dev.330",
+    "benchmark": "consensus_summary",
+    "reason": "few_models",
+    "num_models": 2
+  },
+  {
+    "sample_id": "consensus_summary.dev.307",
+    "benchmark": "consensus_summary",
+    "reason": "few_models",
+    "num_models": 1
+  },
+  {
+    "sample_id": "consensus_summary.dev.221",
+    "benchmark": "consensus_summary",
+    "reason": "few_models",
+    "num_models": 2
+  },
+  {
+    "sample_id": "consensus_summary.dev.328",
+    "benchmark": "consensus_summary",
+    "reason": "few_models",
+    "num_models": 1
+  },
+  {
+    "sample_id": "consensus_summary.dev.106",
+    "benchmark": "consensus_summary",
+    "reason": "few_models",
+    "num_models": 1
+  },
+  {
+    "sample_id": "consensus_summary.dev.163",
+    "benchmark": "consensus_summary",
+    "reason": "few_models",
+    "num_models": 0
+  },
+  {
+    "sample_id": "consensus_summary.dev.355",
+    "benchmark": "consensus_summary",
+    "reason": "few_models",
+    "num_models": 1
+  },
+  {
+    "sample_id": "consensus_summary.dev.76",
+    "benchmark": "consensus_summary",
+    "reason": "few_models",
+    "num_models": 2
+  },
+  {
+    "sample_id": "consensus_summary.dev.273",
+    "benchmark": "consensus_summary",
+    "reason": "all_models_wrong",
+    "num_models": 5
+  },
+  {
+    "sample_id": "consensus_summary.dev.120",
+    "benchmark": "consensus_summary",
+    "reason": "few_models",
+    "num_models": 2
+  },
+  {
+    "sample_id": "consensus_summary.dev.136",
+    "benchmark": "consensus_summary",
+    "reason": "few_models",
+    "num_models": 2
+  },
+  {
+    "sample_id": "consensus_summary.dev.88",
+    "benchmark": "consensus_summary",
+    "reason": "few_models",
+    "num_models": 2
+  },
+  {
+    "sample_id": "consensus_summary.dev.200",
+    "benchmark": "consensus_summary",
+    "reason": "few_models",
+    "num_models": 1
+  },
+  {
+    "sample_id": "consensus_summary.dev.118",
+    "benchmark": "consensus_summary",
+    "reason": "few_models",
+    "num_models": 2
+  },
+  {
+    "sample_id": "consensus_summary.dev.254",
+    "benchmark": "consensus_summary",
+    "reason": "few_models",
+    "num_models": 1
+  },
+  {
+    "sample_id": "consensus_summary.dev.125",
+    "benchmark": "consensus_summary",
+    "reason": "few_models",
+    "num_models": 0
+  },
+  {
+    "sample_id": "consensus_summary.dev.360",
+    "benchmark": "consensus_summary",
+    "reason": "few_models",
+    "num_models": 2
+  },
+  {
+    "sample_id": "consensus_summary.dev.85",
+    "benchmark": "consensus_summary",
+    "reason": "all_models_wrong",
+    "num_models": 8
+  },
+  {
+    "sample_id": "consensus_summary.dev.149",
+    "benchmark": "consensus_summary",
+    "reason": "all_models_wrong",
+    "num_models": 6
+  },
+  {
+    "sample_id": "consensus_summary.dev.102",
+    "benchmark": "consensus_summary",
+    "reason": "few_models",
+    "num_models": 0
+  },
+  {
+    "sample_id": "consensus_summary.dev.139",
+    "benchmark": "consensus_summary",
+    "reason": "few_models",
+    "num_models": 2
+  },
+  {
+    "sample_id": "consensus_summary.dev.308",
+    "benchmark": "consensus_summary",
+    "reason": "all_models_wrong",
+    "num_models": 4
+  },
+  {
+    "sample_id": "consensus_summary.dev.350",
+    "benchmark": "consensus_summary",
+    "reason": "few_models",
+    "num_models": 1
+  },
+  {
+    "sample_id": "consensus_summary.dev.256",
+    "benchmark": "consensus_summary",
+    "reason": "few_models",
+    "num_models": 1
+  },
+  {
+    "sample_id": "consensus_summary.dev.74",
+    "benchmark": "consensus_summary",
+    "reason": "few_models",
+    "num_models": 0
+  },
+  {
+    "sample_id": "consensus_summary.dev.354",
+    "benchmark": "consensus_summary",
+    "reason": "few_models",
+    "num_models": 1
+  },
+  {
+    "sample_id": "consensus_summary.dev.168",
+    "benchmark": "consensus_summary",
+    "reason": "few_models",
+    "num_models": 1
+  },
+  {
+    "sample_id": "consensus_summary.dev.75",
+    "benchmark": "consensus_summary",
+    "reason": "few_models",
+    "num_models": 2
+  },
+  {
+    "sample_id": "consensus_summary.dev.169",
+    "benchmark": "consensus_summary",
+    "reason": "few_models",
+    "num_models": 2
+  },
+  {
+    "sample_id": "consensus_summary.dev.14",
+    "benchmark": "consensus_summary",
+    "reason": "few_models",
+    "num_models": 2
+  },
+  {
+    "sample_id": "consensus_summary.dev.299",
+    "benchmark": "consensus_summary",
+    "reason": "few_models",
+    "num_models": 1
+  },
+  {
+    "sample_id": "consensus_summary.dev.21",
+    "benchmark": "consensus_summary",
+    "reason": "few_models",
+    "num_models": 1
+  },
+  {
+    "sample_id": "consensus_summary.dev.77",
+    "benchmark": "consensus_summary",
+    "reason": "few_models",
+    "num_models": 2
+  },
+  {
+    "sample_id": "consensus_summary.dev.166",
+    "benchmark": "consensus_summary",
+    "reason": "few_models",
+    "num_models": 1
+  },
+  {
+    "sample_id": "consensus_summary.dev.174",
+    "benchmark": "consensus_summary",
+    "reason": "few_models",
+    "num_models": 1
+  },
+  {
+    "sample_id": "consensus_summary.dev.89",
+    "benchmark": "consensus_summary",
+    "reason": "few_models",
+    "num_models": 2
+  },
+  {
+    "sample_id": "consensus_summary.dev.112",
+    "benchmark": "consensus_summary",
+    "reason": "few_models",
+    "num_models": 1
+  },
+  {
+    "sample_id": "consensus_summary.dev.158",
+    "benchmark": "consensus_summary",
+    "reason": "few_models",
+    "num_models": 1
+  },
+  {
+    "sample_id": "consensus_summary.dev.34",
+    "benchmark": "consensus_summary",
+    "reason": "few_models",
+    "num_models": 2
+  },
+  {
+    "sample_id": "consensus_summary.dev.20",
+    "benchmark": "consensus_summary",
+    "reason": "few_models",
+    "num_models": 2
+  },
+  {
+    "sample_id": "consensus_summary.dev.61",
+    "benchmark": "consensus_summary",
+    "reason": "few_models",
+    "num_models": 0
+  },
+  {
+    "sample_id": "consensus_summary.dev.52",
+    "benchmark": "consensus_summary",
+    "reason": "all_models_wrong",
+    "num_models": 4
+  },
+  {
+    "sample_id": "consensus_summary.dev.198",
+    "benchmark": "consensus_summary",
+    "reason": "few_models",
+    "num_models": 1
+  },
+  {
+    "sample_id": "consensus_summary.dev.152",
+    "benchmark": "consensus_summary",
+    "reason": "all_models_wrong",
+    "num_models": 3
+  },
+  {
+    "sample_id": "consensus_summary.dev.274",
+    "benchmark": "consensus_summary",
+    "reason": "all_models_wrong",
+    "num_models": 7
+  },
+  {
+    "sample_id": "consensus_summary.dev.224",
+    "benchmark": "consensus_summary",
+    "reason": "few_models",
+    "num_models": 1
+  },
+  {
+    "sample_id": "consensus_summary.dev.12",
+    "benchmark": "consensus_summary",
+    "reason": "few_models",
+    "num_models": 1
+  },
+  {
+    "sample_id": "grade-school-math.dev.2162",
+    "benchmark": "grade-school-math",
+    "reason": "few_models",
+    "num_models": 0
+  },
+  {
+    "sample_id": "grade-school-math.dev.6470",
+    "benchmark": "grade-school-math",
+    "reason": "few_models",
+    "num_models": 0
+  },
+  {
+    "sample_id": "grade-school-math.dev.2787",
+    "benchmark": "grade-school-math",
+    "reason": "few_models",
+    "num_models": 0
+  },
+  {
+    "sample_id": "grade-school-math.dev.3951",
+    "benchmark": "grade-school-math",
+    "reason": "few_models",
+    "num_models": 0
+  },
+  {
+    "sample_id": "grade-school-math.dev.1938",
+    "benchmark": "grade-school-math",
+    "reason": "few_models",
+    "num_models": 0
+  },
+  {
+    "sample_id": "grade-school-math.dev.6200",
+    "benchmark": "grade-school-math",
+    "reason": "few_models",
+    "num_models": 0
+  },
+  {
+    "sample_id": "grade-school-math.dev.2343",
+    "benchmark": "grade-school-math",
+    "reason": "few_models",
+    "num_models": 1
+  },
+  {
+    "sample_id": "grade-school-math.dev.999",
+    "benchmark": "grade-school-math",
+    "reason": "few_models",
+    "num_models": 0
+  },
+  {
+    "sample_id": "grade-school-math.dev.5383",
+    "benchmark": "grade-school-math",
+    "reason": "few_models",
+    "num_models": 0
+  },
+  {
+    "sample_id": "grade-school-math.dev.6863",
+    "benchmark": "grade-school-math",
+    "reason": "few_models",
+    "num_models": 0
+  },
+  {
+    "sample_id": "grade-school-math.dev.6484",
+    "benchmark": "grade-school-math",
+    "reason": "few_models",
+    "num_models": 0
+  },
+  {
+    "sample_id": "grade-school-math.dev.48",
+    "benchmark": "grade-school-math",
+    "reason": "few_models",
+    "num_models": 0
+  },
+  {
+    "sample_id": "grade-school-math.dev.4345",
+    "benchmark": "grade-school-math",
+    "reason": "few_models",
+    "num_models": 0
+  },
+  {
+    "sample_id": "grade-school-math.dev.6614",
+    "benchmark": "grade-school-math",
+    "reason": "few_models",
+    "num_models": 0
+  },
+  {
+    "sample_id": "grade-school-math.dev.5665",
+    "benchmark": "grade-school-math",
+    "reason": "few_models",
+    "num_models": 0
+  },
+  {
+    "sample_id": "grade-school-math.dev.6250",
+    "benchmark": "grade-school-math",
+    "reason": "few_models",
+    "num_models": 0
+  },
+  {
+    "sample_id": "grade-school-math.dev.1519",
+    "benchmark": "grade-school-math",
+    "reason": "few_models",
+    "num_models": 0
+  },
+  {
+    "sample_id": "grade-school-math.dev.1871",
+    "benchmark": "grade-school-math",
+    "reason": "few_models",
+    "num_models": 0
+  },
+  {
+    "sample_id": "grade-school-math.dev.5210",
+    "benchmark": "grade-school-math",
+    "reason": "few_models",
+    "num_models": 0
+  },
+  {
+    "sample_id": "grade-school-math.dev.4834",
+    "benchmark": "grade-school-math",
+    "reason": "few_models",
+    "num_models": 0
+  },
+  {
+    "sample_id": "grade-school-math.dev.6449",
+    "benchmark": "grade-school-math",
+    "reason": "few_models",
+    "num_models": 0
+  },
+  {
+    "sample_id": "grade-school-math.dev.6762",
+    "benchmark": "grade-school-math",
+    "reason": "few_models",
+    "num_models": 0
+  },
+  {
+    "sample_id": "grade-school-math.dev.3597",
+    "benchmark": "grade-school-math",
+    "reason": "few_models",
+    "num_models": 1
+  },
+  {
+    "sample_id": "grade-school-math.dev.1864",
+    "benchmark": "grade-school-math",
+    "reason": "few_models",
+    "num_models": 0
+  },
+  {
+    "sample_id": "grade-school-math.dev.4816",
+    "benchmark": "grade-school-math",
+    "reason": "few_models",
+    "num_models": 0
+  },
+  {
+    "sample_id": "grade-school-math.dev.3066",
+    "benchmark": "grade-school-math",
+    "reason": "few_models",
+    "num_models": 1
+  },
+  {
+    "sample_id": "grade-school-math.dev.905",
+    "benchmark": "grade-school-math",
+    "reason": "few_models",
+    "num_models": 0
+  },
+  {
+    "sample_id": "grade-school-math.dev.109",
+    "benchmark": "grade-school-math",
+    "reason": "few_models",
+    "num_models": 0
+  },
+  {
+    "sample_id": "grade-school-math.dev.3885",
+    "benchmark": "grade-school-math",
+    "reason": "few_models",
+    "num_models": 0
+  },
+  {
+    "sample_id": "grade-school-math.dev.5142",
+    "benchmark": "grade-school-math",
+    "reason": "few_models",
+    "num_models": 0
+  },
+  {
+    "sample_id": "grade-school-math.dev.3009",
+    "benchmark": "grade-school-math",
+    "reason": "few_models",
+    "num_models": 0
+  },
+  {
+    "sample_id": "grade-school-math.dev.5170",
+    "benchmark": "grade-school-math",
+    "reason": "few_models",
+    "num_models": 0
+  },
+  {
+    "sample_id": "grade-school-math.dev.6615",
+    "benchmark": "grade-school-math",
+    "reason": "few_models",
+    "num_models": 0
+  },
+  {
+    "sample_id": "grade-school-math.dev.4738",
+    "benchmark": "grade-school-math",
+    "reason": "few_models",
+    "num_models": 0
+  },
+  {
+    "sample_id": "grade-school-math.dev.6652",
+    "benchmark": "grade-school-math",
+    "reason": "few_models",
+    "num_models": 1
+  },
+  {
+    "sample_id": "grade-school-math.dev.2903",
+    "benchmark": "grade-school-math",
+    "reason": "few_models",
+    "num_models": 0
+  },
+  {
+    "sample_id": "grade-school-math.dev.2569",
+    "benchmark": "grade-school-math",
+    "reason": "few_models",
+    "num_models": 0
+  },
+  {
+    "sample_id": "grade-school-math.dev.4703",
+    "benchmark": "grade-school-math",
+    "reason": "few_models",
+    "num_models": 0
+  },
+  {
+    "sample_id": "grade-school-math.dev.1905",
+    "benchmark": "grade-school-math",
+    "reason": "few_models",
+    "num_models": 0
+  },
+  {
+    "sample_id": "grade-school-math.dev.3301",
+    "benchmark": "grade-school-math",
+    "reason": "few_models",
+    "num_models": 0
+  },
+  {
+    "sample_id": "grade-school-math.dev.3328",
+    "benchmark": "grade-school-math",
+    "reason": "few_models",
+    "num_models": 0
+  },
+  {
+    "sample_id": "grade-school-math.dev.361",
+    "benchmark": "grade-school-math",
+    "reason": "few_models",
+    "num_models": 0
+  },
+  {
+    "sample_id": "grade-school-math.dev.7190",
+    "benchmark": "grade-school-math",
+    "reason": "few_models",
+    "num_models": 0
+  },
+  {
+    "sample_id": "grade-school-math.dev.6335",
+    "benchmark": "grade-school-math",
+    "reason": "few_models",
+    "num_models": 0
+  },
+  {
+    "sample_id": "grade-school-math.dev.2594",
+    "benchmark": "grade-school-math",
+    "reason": "few_models",
+    "num_models": 0
+  },
+  {
+    "sample_id": "grade-school-math.dev.2410",
+    "benchmark": "grade-school-math",
+    "reason": "few_models",
+    "num_models": 0
+  },
+  {
+    "sample_id": "grade-school-math.dev.5173",
+    "benchmark": "grade-school-math",
+    "reason": "few_models",
+    "num_models": 0
+  },
+  {
+    "sample_id": "grade-school-math.dev.6738",
+    "benchmark": "grade-school-math",
+    "reason": "few_models",
+    "num_models": 0
+  },
+  {
+    "sample_id": "grade-school-math.dev.4052",
+    "benchmark": "grade-school-math",
+    "reason": "few_models",
+    "num_models": 0
+  },
+  {
+    "sample_id": "grade-school-math.dev.5843",
+    "benchmark": "grade-school-math",
+    "reason": "few_models",
+    "num_models": 0
+  },
+  {
+    "sample_id": "grade-school-math.dev.2864",
+    "benchmark": "grade-school-math",
+    "reason": "few_models",
+    "num_models": 0
+  },
+  {
+    "sample_id": "grade-school-math.dev.1528",
+    "benchmark": "grade-school-math",
+    "reason": "few_models",
+    "num_models": 0
+  },
+  {
+    "sample_id": "grade-school-math.dev.1637",
+    "benchmark": "grade-school-math",
+    "reason": "few_models",
+    "num_models": 0
+  },
+  {
+    "sample_id": "grade-school-math.dev.5757",
+    "benchmark": "grade-school-math",
+    "reason": "few_models",
+    "num_models": 0
+  },
+  {
+    "sample_id": "grade-school-math.dev.523",
+    "benchmark": "grade-school-math",
+    "reason": "few_models",
+    "num_models": 0
+  },
+  {
+    "sample_id": "grade-school-math.dev.426",
+    "benchmark": "grade-school-math",
+    "reason": "few_models",
+    "num_models": 0
+  },
+  {
+    "sample_id": "grade-school-math.dev.5189",
+    "benchmark": "grade-school-math",
+    "reason": "few_models",
+    "num_models": 0
+  },
+  {
+    "sample_id": "grade-school-math.dev.6151",
+    "benchmark": "grade-school-math",
+    "reason": "few_models",
+    "num_models": 0
+  },
+  {
+    "sample_id": "grade-school-math.dev.7227",
+    "benchmark": "grade-school-math",
+    "reason": "few_models",
+    "num_models": 0
+  },
+  {
+    "sample_id": "grade-school-math.dev.2496",
+    "benchmark": "grade-school-math",
+    "reason": "few_models",
+    "num_models": 0
+  },
+  {
+    "sample_id": "grade-school-math.dev.6399",
+    "benchmark": "grade-school-math",
+    "reason": "few_models",
+    "num_models": 1
+  },
+  {
+    "sample_id": "grade-school-math.dev.2620",
+    "benchmark": "grade-school-math",
+    "reason": "few_models",
+    "num_models": 0
+  },
+  {
+    "sample_id": "grade-school-math.dev.70",
+    "benchmark": "grade-school-math",
+    "reason": "few_models",
+    "num_models": 0
+  },
+  {
+    "sample_id": "grade-school-math.dev.3252",
+    "benchmark": "grade-school-math",
+    "reason": "few_models",
+    "num_models": 0
+  },
+  {
+    "sample_id": "grade-school-math.dev.3172",
+    "benchmark": "grade-school-math",
+    "reason": "few_models",
+    "num_models": 0
+  },
+  {
+    "sample_id": "grade-school-math.dev.6981",
+    "benchmark": "grade-school-math",
+    "reason": "few_models",
+    "num_models": 0
+  },
+  {
+    "sample_id": "grade-school-math.dev.7185",
+    "benchmark": "grade-school-math",
+    "reason": "few_models",
+    "num_models": 0
+  },
+  {
+    "sample_id": "grade-school-math.dev.1117",
+    "benchmark": "grade-school-math",
+    "reason": "few_models",
+    "num_models": 0
+  },
+  {
+    "sample_id": "grade-school-math.dev.4303",
+    "benchmark": "grade-school-math",
+    "reason": "few_models",
+    "num_models": 0
+  },
+  {
+    "sample_id": "grade-school-math.dev.1675",
+    "benchmark": "grade-school-math",
+    "reason": "few_models",
+    "num_models": 0
+  },
+  {
+    "sample_id": "grade-school-math.dev.1150",
+    "benchmark": "grade-school-math",
+    "reason": "few_models",
+    "num_models": 0
+  },
+  {
+    "sample_id": "grade-school-math.dev.5080",
+    "benchmark": "grade-school-math",
+    "reason": "few_models",
+    "num_models": 0
+  },
+  {
+    "sample_id": "grade-school-math.dev.1974",
+    "benchmark": "grade-school-math",
+    "reason": "few_models",
+    "num_models": 0
+  },
+  {
+    "sample_id": "grade-school-math.dev.4057",
+    "benchmark": "grade-school-math",
+    "reason": "few_models",
+    "num_models": 0
+  },
+  {
+    "sample_id": "grade-school-math.dev.7017",
+    "benchmark": "grade-school-math",
+    "reason": "few_models",
+    "num_models": 0
+  },
+  {
+    "sample_id": "grade-school-math.dev.1579",
+    "benchmark": "grade-school-math",
+    "reason": "few_models",
+    "num_models": 0
+  },
+  {
+    "sample_id": "grade-school-math.dev.3082",
+    "benchmark": "grade-school-math",
+    "reason": "few_models",
+    "num_models": 0
+  },
+  {
+    "sample_id": "grade-school-math.dev.2188",
+    "benchmark": "grade-school-math",
+    "reason": "few_models",
+    "num_models": 0
+  },
+  {
+    "sample_id": "grade-school-math.dev.4777",
+    "benchmark": "grade-school-math",
+    "reason": "few_models",
+    "num_models": 0
+  },
+  {
+    "sample_id": "grade-school-math.dev.1299",
+    "benchmark": "grade-school-math",
+    "reason": "few_models",
+    "num_models": 0
+  },
+  {
+    "sample_id": "grade-school-math.dev.2691",
+    "benchmark": "grade-school-math",
+    "reason": "few_models",
+    "num_models": 0
+  },
+  {
+    "sample_id": "grade-school-math.dev.4782",
+    "benchmark": "grade-school-math",
+    "reason": "few_models",
+    "num_models": 0
+  },
+  {
+    "sample_id": "grade-school-math.dev.7290",
+    "benchmark": "grade-school-math",
+    "reason": "few_models",
+    "num_models": 0
+  },
+  {
+    "sample_id": "grade-school-math.dev.3982",
+    "benchmark": "grade-school-math",
+    "reason": "few_models",
+    "num_models": 0
+  },
+  {
+    "sample_id": "grade-school-math.dev.2628",
+    "benchmark": "grade-school-math",
+    "reason": "few_models",
+    "num_models": 0
+  },
+  {
+    "sample_id": "grade-school-math.dev.1206",
+    "benchmark": "grade-school-math",
+    "reason": "few_models",
+    "num_models": 0
+  },
+  {
+    "sample_id": "grade-school-math.dev.6273",
+    "benchmark": "grade-school-math",
+    "reason": "few_models",
+    "num_models": 0
+  },
+  {
+    "sample_id": "grade-school-math.dev.1368",
+    "benchmark": "grade-school-math",
+    "reason": "few_models",
+    "num_models": 0
+  },
+  {
+    "sample_id": "grade-school-math.dev.6653",
+    "benchmark": "grade-school-math",
+    "reason": "few_models",
+    "num_models": 0
+  },
+  {
+    "sample_id": "grade-school-math.dev.6793",
+    "benchmark": "grade-school-math",
+    "reason": "few_models",
+    "num_models": 0
+  },
+  {
+    "sample_id": "grade-school-math.dev.4632",
+    "benchmark": "grade-school-math",
+    "reason": "few_models",
+    "num_models": 0
+  },
+  {
+    "sample_id": "grade-school-math.dev.6438",
+    "benchmark": "grade-school-math",
+    "reason": "few_models",
+    "num_models": 0
+  },
+  {
+    "sample_id": "grade-school-math.dev.1772",
+    "benchmark": "grade-school-math",
+    "reason": "few_models",
+    "num_models": 0
+  },
+  {
+    "sample_id": "grade-school-math.dev.4414",
+    "benchmark": "grade-school-math",
+    "reason": "few_models",
+    "num_models": 0
+  },
+  {
+    "sample_id": "grade-school-math.dev.3545",
+    "benchmark": "grade-school-math",
+    "reason": "few_models",
+    "num_models": 0
+  },
+  {
+    "sample_id": "grade-school-math.dev.5008",
+    "benchmark": "grade-school-math",
+    "reason": "few_models",
+    "num_models": 0
+  },
+  {
+    "sample_id": "grade-school-math.dev.6639",
+    "benchmark": "grade-school-math",
+    "reason": "few_models",
+    "num_models": 0
+  },
+  {
+    "sample_id": "grade-school-math.dev.6723",
+    "benchmark": "grade-school-math",
+    "reason": "few_models",
+    "num_models": 0
+  },
+  {
+    "sample_id": "grade-school-math.dev.4356",
+    "benchmark": "grade-school-math",
+    "reason": "few_models",
+    "num_models": 0
+  },
+  {
+    "sample_id": "grade-school-math.dev.270",
+    "benchmark": "grade-school-math",
+    "reason": "few_models",
+    "num_models": 1
+  },
+  {
+    "sample_id": "hellaswag.val.4648",
+    "benchmark": "hellaswag",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mbpp.dev.9",
+    "benchmark": "mbpp",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mbpp.dev.62",
+    "benchmark": "mbpp",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mbpp.dev.168",
+    "benchmark": "mbpp",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mbpp.dev.300",
+    "benchmark": "mbpp",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mbpp.dev.231",
+    "benchmark": "mbpp",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mbpp.dev.164",
+    "benchmark": "mbpp",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mbpp.dev.115",
+    "benchmark": "mbpp",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mbpp.dev.172",
+    "benchmark": "mbpp",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mbpp.dev.257",
+    "benchmark": "mbpp",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mbpp.dev.89",
+    "benchmark": "mbpp",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mbpp.dev.192",
+    "benchmark": "mbpp",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mbpp.dev.55",
+    "benchmark": "mbpp",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mbpp.dev.14",
+    "benchmark": "mbpp",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mbpp.dev.183",
+    "benchmark": "mbpp",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mbpp.dev.217",
+    "benchmark": "mbpp",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mbpp.dev.174",
+    "benchmark": "mbpp",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mbpp.dev.25",
+    "benchmark": "mbpp",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-abstract-algebra.val.57",
+    "benchmark": "mmlu-abstract-algebra",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-abstract-algebra.val.72",
+    "benchmark": "mmlu-abstract-algebra",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-abstract-algebra.val.49",
+    "benchmark": "mmlu-abstract-algebra",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-abstract-algebra.val.51",
+    "benchmark": "mmlu-abstract-algebra",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-abstract-algebra.val.53",
+    "benchmark": "mmlu-abstract-algebra",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-abstract-algebra.val.30",
+    "benchmark": "mmlu-abstract-algebra",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-abstract-algebra.val.24",
+    "benchmark": "mmlu-abstract-algebra",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-abstract-algebra.val.58",
+    "benchmark": "mmlu-abstract-algebra",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-abstract-algebra.val.7",
+    "benchmark": "mmlu-abstract-algebra",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-abstract-algebra.val.52",
+    "benchmark": "mmlu-abstract-algebra",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-abstract-algebra.val.42",
+    "benchmark": "mmlu-abstract-algebra",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-abstract-algebra.val.3",
+    "benchmark": "mmlu-abstract-algebra",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-abstract-algebra.val.83",
+    "benchmark": "mmlu-abstract-algebra",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-anatomy.val.85",
+    "benchmark": "mmlu-anatomy",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-anatomy.val.107",
+    "benchmark": "mmlu-anatomy",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-anatomy.val.25",
+    "benchmark": "mmlu-anatomy",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-anatomy.val.129",
+    "benchmark": "mmlu-anatomy",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-anatomy.val.103",
+    "benchmark": "mmlu-anatomy",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-anatomy.val.22",
+    "benchmark": "mmlu-anatomy",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-astronomy.val.77",
+    "benchmark": "mmlu-astronomy",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-astronomy.val.28",
+    "benchmark": "mmlu-astronomy",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-business-ethics.val.86",
+    "benchmark": "mmlu-business-ethics",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-business-ethics.val.95",
+    "benchmark": "mmlu-business-ethics",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-business-ethics.val.92",
+    "benchmark": "mmlu-business-ethics",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-clinical-knowledge.val.98",
+    "benchmark": "mmlu-clinical-knowledge",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-college-biology.val.53",
+    "benchmark": "mmlu-college-biology",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-college-chemistry.val.57",
+    "benchmark": "mmlu-college-chemistry",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-college-chemistry.val.5",
+    "benchmark": "mmlu-college-chemistry",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-college-chemistry.val.81",
+    "benchmark": "mmlu-college-chemistry",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-college-chemistry.val.18",
+    "benchmark": "mmlu-college-chemistry",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-college-chemistry.val.25",
+    "benchmark": "mmlu-college-chemistry",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-college-chemistry.val.12",
+    "benchmark": "mmlu-college-chemistry",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-college-chemistry.val.89",
+    "benchmark": "mmlu-college-chemistry",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-college-chemistry.val.47",
+    "benchmark": "mmlu-college-chemistry",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-college-chemistry.val.86",
+    "benchmark": "mmlu-college-chemistry",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-college-chemistry.val.26",
+    "benchmark": "mmlu-college-chemistry",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-college-chemistry.val.43",
+    "benchmark": "mmlu-college-chemistry",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-college-chemistry.val.41",
+    "benchmark": "mmlu-college-chemistry",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-college-chemistry.val.58",
+    "benchmark": "mmlu-college-chemistry",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-college-chemistry.val.54",
+    "benchmark": "mmlu-college-chemistry",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-college-chemistry.val.80",
+    "benchmark": "mmlu-college-chemistry",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-college-chemistry.val.52",
+    "benchmark": "mmlu-college-chemistry",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-college-chemistry.val.85",
+    "benchmark": "mmlu-college-chemistry",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-college-chemistry.val.27",
+    "benchmark": "mmlu-college-chemistry",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-college-computer-science.val.84",
+    "benchmark": "mmlu-college-computer-science",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-college-computer-science.val.57",
+    "benchmark": "mmlu-college-computer-science",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-college-computer-science.val.72",
+    "benchmark": "mmlu-college-computer-science",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-college-computer-science.val.17",
+    "benchmark": "mmlu-college-computer-science",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-college-computer-science.val.51",
+    "benchmark": "mmlu-college-computer-science",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-college-computer-science.val.7",
+    "benchmark": "mmlu-college-computer-science",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-college-mathematics.val.29",
+    "benchmark": "mmlu-college-mathematics",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-college-mathematics.val.18",
+    "benchmark": "mmlu-college-mathematics",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-college-mathematics.val.12",
+    "benchmark": "mmlu-college-mathematics",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-college-mathematics.val.6",
+    "benchmark": "mmlu-college-mathematics",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-college-mathematics.val.58",
+    "benchmark": "mmlu-college-mathematics",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-college-mathematics.val.46",
+    "benchmark": "mmlu-college-mathematics",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-college-mathematics.val.94",
+    "benchmark": "mmlu-college-mathematics",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-college-mathematics.val.62",
+    "benchmark": "mmlu-college-mathematics",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-college-mathematics.val.3",
+    "benchmark": "mmlu-college-mathematics",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-college-mathematics.val.76",
+    "benchmark": "mmlu-college-mathematics",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-college-medicine.val.126",
+    "benchmark": "mmlu-college-medicine",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-college-medicine.val.140",
+    "benchmark": "mmlu-college-medicine",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-college-medicine.val.164",
+    "benchmark": "mmlu-college-medicine",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-college-physics.val.5",
+    "benchmark": "mmlu-college-physics",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-college-physics.val.0",
+    "benchmark": "mmlu-college-physics",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-college-physics.val.76",
+    "benchmark": "mmlu-college-physics",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-college-physics.val.18",
+    "benchmark": "mmlu-college-physics",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-college-physics.val.98",
+    "benchmark": "mmlu-college-physics",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-college-physics.val.47",
+    "benchmark": "mmlu-college-physics",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-college-physics.val.100",
+    "benchmark": "mmlu-college-physics",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-college-physics.val.49",
+    "benchmark": "mmlu-college-physics",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-college-physics.val.80",
+    "benchmark": "mmlu-college-physics",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-college-physics.val.92",
+    "benchmark": "mmlu-college-physics",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-college-physics.val.33",
+    "benchmark": "mmlu-college-physics",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-college-physics.val.81",
+    "benchmark": "mmlu-college-physics",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-computer-security.val.51",
+    "benchmark": "mmlu-computer-security",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-computer-security.val.10",
+    "benchmark": "mmlu-computer-security",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-conceptual-physics.val.203",
+    "benchmark": "mmlu-conceptual-physics",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-econometrics.val.6",
+    "benchmark": "mmlu-econometrics",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-econometrics.val.71",
+    "benchmark": "mmlu-econometrics",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-econometrics.val.98",
+    "benchmark": "mmlu-econometrics",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-econometrics.val.111",
+    "benchmark": "mmlu-econometrics",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-econometrics.val.35",
+    "benchmark": "mmlu-econometrics",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-econometrics.val.58",
+    "benchmark": "mmlu-econometrics",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-econometrics.val.72",
+    "benchmark": "mmlu-econometrics",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-econometrics.val.22",
+    "benchmark": "mmlu-econometrics",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-electrical-engineering.val.66",
+    "benchmark": "mmlu-electrical-engineering",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-electrical-engineering.val.71",
+    "benchmark": "mmlu-electrical-engineering",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-electrical-engineering.val.3",
+    "benchmark": "mmlu-electrical-engineering",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-electrical-engineering.val.49",
+    "benchmark": "mmlu-electrical-engineering",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-electrical-engineering.val.105",
+    "benchmark": "mmlu-electrical-engineering",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-electrical-engineering.val.11",
+    "benchmark": "mmlu-electrical-engineering",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-elementary-mathematics.val.5",
+    "benchmark": "mmlu-elementary-mathematics",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-elementary-mathematics.val.326",
+    "benchmark": "mmlu-elementary-mathematics",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-elementary-mathematics.val.254",
+    "benchmark": "mmlu-elementary-mathematics",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-elementary-mathematics.val.118",
+    "benchmark": "mmlu-elementary-mathematics",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-elementary-mathematics.val.253",
+    "benchmark": "mmlu-elementary-mathematics",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-elementary-mathematics.val.32",
+    "benchmark": "mmlu-elementary-mathematics",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-elementary-mathematics.val.100",
+    "benchmark": "mmlu-elementary-mathematics",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-elementary-mathematics.val.262",
+    "benchmark": "mmlu-elementary-mathematics",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-elementary-mathematics.val.19",
+    "benchmark": "mmlu-elementary-mathematics",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-elementary-mathematics.val.104",
+    "benchmark": "mmlu-elementary-mathematics",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-formal-logic.val.51",
+    "benchmark": "mmlu-formal-logic",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-formal-logic.val.115",
+    "benchmark": "mmlu-formal-logic",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-formal-logic.val.90",
+    "benchmark": "mmlu-formal-logic",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-formal-logic.val.26",
+    "benchmark": "mmlu-formal-logic",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-formal-logic.val.54",
+    "benchmark": "mmlu-formal-logic",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-formal-logic.val.109",
+    "benchmark": "mmlu-formal-logic",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-formal-logic.val.94",
+    "benchmark": "mmlu-formal-logic",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-formal-logic.val.20",
+    "benchmark": "mmlu-formal-logic",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-formal-logic.val.48",
+    "benchmark": "mmlu-formal-logic",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-formal-logic.val.104",
+    "benchmark": "mmlu-formal-logic",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-formal-logic.val.57",
+    "benchmark": "mmlu-formal-logic",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-formal-logic.val.92",
+    "benchmark": "mmlu-formal-logic",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-global-facts.val.71",
+    "benchmark": "mmlu-global-facts",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-global-facts.val.22",
+    "benchmark": "mmlu-global-facts",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-global-facts.val.74",
+    "benchmark": "mmlu-global-facts",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-global-facts.val.68",
+    "benchmark": "mmlu-global-facts",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-global-facts.val.4",
+    "benchmark": "mmlu-global-facts",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-global-facts.val.15",
+    "benchmark": "mmlu-global-facts",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-global-facts.val.82",
+    "benchmark": "mmlu-global-facts",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-global-facts.val.14",
+    "benchmark": "mmlu-global-facts",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-global-facts.val.48",
+    "benchmark": "mmlu-global-facts",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-global-facts.val.80",
+    "benchmark": "mmlu-global-facts",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-global-facts.val.28",
+    "benchmark": "mmlu-global-facts",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-global-facts.val.88",
+    "benchmark": "mmlu-global-facts",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-high-school-biology.val.53",
+    "benchmark": "mmlu-high-school-biology",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-high-school-chemistry.val.75",
+    "benchmark": "mmlu-high-school-chemistry",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-high-school-chemistry.val.41",
+    "benchmark": "mmlu-high-school-chemistry",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-high-school-chemistry.val.13",
+    "benchmark": "mmlu-high-school-chemistry",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-high-school-computer-science.val.66",
+    "benchmark": "mmlu-high-school-computer-science",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-high-school-computer-science.val.42",
+    "benchmark": "mmlu-high-school-computer-science",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-high-school-european-history.val.72",
+    "benchmark": "mmlu-high-school-european-history",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-high-school-european-history.val.123",
+    "benchmark": "mmlu-high-school-european-history",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-high-school-european-history.val.74",
+    "benchmark": "mmlu-high-school-european-history",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-high-school-geography.val.167",
+    "benchmark": "mmlu-high-school-geography",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-high-school-macroeconomics.val.149",
+    "benchmark": "mmlu-high-school-macroeconomics",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-high-school-macroeconomics.val.198",
+    "benchmark": "mmlu-high-school-macroeconomics",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-high-school-mathematics.val.55",
+    "benchmark": "mmlu-high-school-mathematics",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-high-school-mathematics.val.205",
+    "benchmark": "mmlu-high-school-mathematics",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-high-school-mathematics.val.115",
+    "benchmark": "mmlu-high-school-mathematics",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-high-school-mathematics.val.18",
+    "benchmark": "mmlu-high-school-mathematics",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-high-school-mathematics.val.260",
+    "benchmark": "mmlu-high-school-mathematics",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-high-school-mathematics.val.264",
+    "benchmark": "mmlu-high-school-mathematics",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-high-school-mathematics.val.112",
+    "benchmark": "mmlu-high-school-mathematics",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-high-school-mathematics.val.262",
+    "benchmark": "mmlu-high-school-mathematics",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-high-school-mathematics.val.164",
+    "benchmark": "mmlu-high-school-mathematics",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-high-school-mathematics.val.114",
+    "benchmark": "mmlu-high-school-mathematics",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-high-school-mathematics.val.238",
+    "benchmark": "mmlu-high-school-mathematics",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-high-school-microeconomics.val.201",
+    "benchmark": "mmlu-high-school-microeconomics",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-high-school-microeconomics.val.111",
+    "benchmark": "mmlu-high-school-microeconomics",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-high-school-physics.val.92",
+    "benchmark": "mmlu-high-school-physics",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-high-school-physics.val.20",
+    "benchmark": "mmlu-high-school-physics",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-high-school-physics.val.139",
+    "benchmark": "mmlu-high-school-physics",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-high-school-physics.val.109",
+    "benchmark": "mmlu-high-school-physics",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-high-school-physics.val.95",
+    "benchmark": "mmlu-high-school-physics",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-high-school-physics.val.122",
+    "benchmark": "mmlu-high-school-physics",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-high-school-physics.val.123",
+    "benchmark": "mmlu-high-school-physics",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-high-school-physics.val.9",
+    "benchmark": "mmlu-high-school-physics",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-high-school-physics.val.128",
+    "benchmark": "mmlu-high-school-physics",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-high-school-physics.val.19",
+    "benchmark": "mmlu-high-school-physics",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-high-school-physics.val.129",
+    "benchmark": "mmlu-high-school-physics",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-high-school-physics.val.86",
+    "benchmark": "mmlu-high-school-physics",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-high-school-physics.val.43",
+    "benchmark": "mmlu-high-school-physics",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-high-school-psychology.val.264",
+    "benchmark": "mmlu-high-school-psychology",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-high-school-psychology.val.533",
+    "benchmark": "mmlu-high-school-psychology",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-high-school-psychology.val.240",
+    "benchmark": "mmlu-high-school-psychology",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-high-school-statistics.val.111",
+    "benchmark": "mmlu-high-school-statistics",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-high-school-statistics.val.32",
+    "benchmark": "mmlu-high-school-statistics",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-high-school-statistics.val.192",
+    "benchmark": "mmlu-high-school-statistics",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-high-school-statistics.val.204",
+    "benchmark": "mmlu-high-school-statistics",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-high-school-statistics.val.206",
+    "benchmark": "mmlu-high-school-statistics",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-high-school-statistics.val.67",
+    "benchmark": "mmlu-high-school-statistics",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-high-school-world-history.val.24",
+    "benchmark": "mmlu-high-school-world-history",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-high-school-world-history.val.205",
+    "benchmark": "mmlu-high-school-world-history",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-high-school-world-history.val.60",
+    "benchmark": "mmlu-high-school-world-history",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-human-aging.val.182",
+    "benchmark": "mmlu-human-aging",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-human-aging.val.25",
+    "benchmark": "mmlu-human-aging",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-human-aging.val.166",
+    "benchmark": "mmlu-human-aging",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-human-aging.val.35",
+    "benchmark": "mmlu-human-aging",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-human-sexuality.val.17",
+    "benchmark": "mmlu-human-sexuality",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-human-sexuality.val.123",
+    "benchmark": "mmlu-human-sexuality",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-international-law.val.103",
+    "benchmark": "mmlu-international-law",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-international-law.val.19",
+    "benchmark": "mmlu-international-law",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-jurisprudence.val.4",
+    "benchmark": "mmlu-jurisprudence",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-jurisprudence.val.79",
+    "benchmark": "mmlu-jurisprudence",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-logical-fallacies.val.83",
+    "benchmark": "mmlu-logical-fallacies",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-machine-learning.val.56",
+    "benchmark": "mmlu-machine-learning",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-machine-learning.val.37",
+    "benchmark": "mmlu-machine-learning",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-machine-learning.val.59",
+    "benchmark": "mmlu-machine-learning",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-machine-learning.val.73",
+    "benchmark": "mmlu-machine-learning",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-machine-learning.val.32",
+    "benchmark": "mmlu-machine-learning",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-machine-learning.val.97",
+    "benchmark": "mmlu-machine-learning",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-machine-learning.val.5",
+    "benchmark": "mmlu-machine-learning",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-machine-learning.val.27",
+    "benchmark": "mmlu-machine-learning",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-machine-learning.val.89",
+    "benchmark": "mmlu-machine-learning",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-management.val.23",
+    "benchmark": "mmlu-management",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-management.val.85",
+    "benchmark": "mmlu-management",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-marketing.val.54",
+    "benchmark": "mmlu-marketing",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-miscellaneous.val.678",
+    "benchmark": "mmlu-miscellaneous",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-miscellaneous.val.568",
+    "benchmark": "mmlu-miscellaneous",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-moral-disputes.val.221",
+    "benchmark": "mmlu-moral-disputes",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-moral-disputes.val.278",
+    "benchmark": "mmlu-moral-disputes",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-moral-disputes.val.133",
+    "benchmark": "mmlu-moral-disputes",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-moral-disputes.val.273",
+    "benchmark": "mmlu-moral-disputes",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-moral-disputes.val.168",
+    "benchmark": "mmlu-moral-disputes",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-moral-disputes.val.113",
+    "benchmark": "mmlu-moral-disputes",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-moral-disputes.val.78",
+    "benchmark": "mmlu-moral-disputes",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-moral-scenarios.val.571",
+    "benchmark": "mmlu-moral-scenarios",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-moral-scenarios.val.536",
+    "benchmark": "mmlu-moral-scenarios",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-moral-scenarios.val.225",
+    "benchmark": "mmlu-moral-scenarios",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-moral-scenarios.val.84",
+    "benchmark": "mmlu-moral-scenarios",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-moral-scenarios.val.368",
+    "benchmark": "mmlu-moral-scenarios",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-moral-scenarios.val.289",
+    "benchmark": "mmlu-moral-scenarios",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-moral-scenarios.val.163",
+    "benchmark": "mmlu-moral-scenarios",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-moral-scenarios.val.479",
+    "benchmark": "mmlu-moral-scenarios",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-moral-scenarios.val.587",
+    "benchmark": "mmlu-moral-scenarios",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-moral-scenarios.val.657",
+    "benchmark": "mmlu-moral-scenarios",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-nutrition.val.197",
+    "benchmark": "mmlu-nutrition",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-nutrition.val.113",
+    "benchmark": "mmlu-nutrition",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-nutrition.val.217",
+    "benchmark": "mmlu-nutrition",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-philosophy.val.77",
+    "benchmark": "mmlu-philosophy",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-philosophy.val.115",
+    "benchmark": "mmlu-philosophy",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-prehistory.val.217",
+    "benchmark": "mmlu-prehistory",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-prehistory.val.52",
+    "benchmark": "mmlu-prehistory",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-prehistory.val.152",
+    "benchmark": "mmlu-prehistory",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-prehistory.val.278",
+    "benchmark": "mmlu-prehistory",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-professional-accounting.val.21",
+    "benchmark": "mmlu-professional-accounting",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-professional-accounting.val.80",
+    "benchmark": "mmlu-professional-accounting",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-professional-accounting.val.211",
+    "benchmark": "mmlu-professional-accounting",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-professional-accounting.val.62",
+    "benchmark": "mmlu-professional-accounting",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-professional-law.val.846",
+    "benchmark": "mmlu-professional-law",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-professional-law.val.590",
+    "benchmark": "mmlu-professional-law",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-professional-law.val.1213",
+    "benchmark": "mmlu-professional-law",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-professional-law.val.909",
+    "benchmark": "mmlu-professional-law",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-professional-law.val.251",
+    "benchmark": "mmlu-professional-law",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-professional-law.val.27",
+    "benchmark": "mmlu-professional-law",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-professional-law.val.671",
+    "benchmark": "mmlu-professional-law",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-professional-law.val.308",
+    "benchmark": "mmlu-professional-law",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-professional-psychology.val.72",
+    "benchmark": "mmlu-professional-psychology",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-professional-psychology.val.312",
+    "benchmark": "mmlu-professional-psychology",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-professional-psychology.val.323",
+    "benchmark": "mmlu-professional-psychology",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-professional-psychology.val.288",
+    "benchmark": "mmlu-professional-psychology",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-professional-psychology.val.423",
+    "benchmark": "mmlu-professional-psychology",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-professional-psychology.val.466",
+    "benchmark": "mmlu-professional-psychology",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-public-relations.val.42",
+    "benchmark": "mmlu-public-relations",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-public-relations.val.6",
+    "benchmark": "mmlu-public-relations",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-public-relations.val.22",
+    "benchmark": "mmlu-public-relations",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-public-relations.val.55",
+    "benchmark": "mmlu-public-relations",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-public-relations.val.9",
+    "benchmark": "mmlu-public-relations",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-security-studies.val.76",
+    "benchmark": "mmlu-security-studies",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-security-studies.val.192",
+    "benchmark": "mmlu-security-studies",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-security-studies.val.31",
+    "benchmark": "mmlu-security-studies",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-security-studies.val.126",
+    "benchmark": "mmlu-security-studies",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-sociology.val.55",
+    "benchmark": "mmlu-sociology",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-us-foreign-policy.val.33",
+    "benchmark": "mmlu-us-foreign-policy",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-us-foreign-policy.val.41",
+    "benchmark": "mmlu-us-foreign-policy",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-virology.val.136",
+    "benchmark": "mmlu-virology",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-virology.val.69",
+    "benchmark": "mmlu-virology",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-virology.val.17",
+    "benchmark": "mmlu-virology",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-virology.val.148",
+    "benchmark": "mmlu-virology",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-virology.val.81",
+    "benchmark": "mmlu-virology",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-virology.val.91",
+    "benchmark": "mmlu-virology",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-virology.val.35",
+    "benchmark": "mmlu-virology",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-virology.val.130",
+    "benchmark": "mmlu-virology",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-virology.val.118",
+    "benchmark": "mmlu-virology",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-virology.val.30",
+    "benchmark": "mmlu-virology",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-virology.val.158",
+    "benchmark": "mmlu-virology",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-virology.val.135",
+    "benchmark": "mmlu-virology",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-virology.val.62",
+    "benchmark": "mmlu-virology",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-virology.val.120",
+    "benchmark": "mmlu-virology",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-virology.val.74",
+    "benchmark": "mmlu-virology",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-virology.val.128",
+    "benchmark": "mmlu-virology",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-virology.val.154",
+    "benchmark": "mmlu-virology",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-world-religions.val.67",
+    "benchmark": "mmlu-world-religions",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mmlu-world-religions.val.59",
+    "benchmark": "mmlu-world-religions",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  },
+  {
+    "sample_id": "mtbench-math.dev.0",
+    "benchmark": "mtbench-math",
+    "reason": "few_models",
+    "num_models": 1
+  },
+  {
+    "sample_id": "mtbench-math.dev.16",
+    "benchmark": "mtbench-math",
+    "reason": "few_models",
+    "num_models": 2
+  },
+  {
+    "sample_id": "mtbench-math.dev.13",
+    "benchmark": "mtbench-math",
+    "reason": "few_models",
+    "num_models": 1
+  },
+  {
+    "sample_id": "mtbench-math.dev.19",
+    "benchmark": "mtbench-math",
+    "reason": "few_models",
+    "num_models": 0
+  },
+  {
+    "sample_id": "mtbench-math.dev.8",
+    "benchmark": "mtbench-math",
+    "reason": "few_models",
+    "num_models": 1
+  },
+  {
+    "sample_id": "mtbench-math.dev.6",
+    "benchmark": "mtbench-math",
+    "reason": "few_models",
+    "num_models": 1
+  },
+  {
+    "sample_id": "mtbench-math.dev.3",
+    "benchmark": "mtbench-math",
+    "reason": "few_models",
+    "num_models": 0
+  },
+  {
+    "sample_id": "mtbench-math.dev.10",
+    "benchmark": "mtbench-math",
+    "reason": "few_models",
+    "num_models": 0
+  },
+  {
+    "sample_id": "mtbench-math.dev.12",
+    "benchmark": "mtbench-math",
+    "reason": "few_models",
+    "num_models": 1
+  },
+  {
+    "sample_id": "mtbench-math.dev.15",
+    "benchmark": "mtbench-math",
+    "reason": "few_models",
+    "num_models": 0
+  },
+  {
+    "sample_id": "mtbench-math.dev.4",
+    "benchmark": "mtbench-math",
+    "reason": "few_models",
+    "num_models": 2
+  },
+  {
+    "sample_id": "mtbench-math.dev.14",
+    "benchmark": "mtbench-math",
+    "reason": "few_models",
+    "num_models": 2
+  },
+  {
+    "sample_id": "mtbench-reference.dev.0",
+    "benchmark": "mtbench-reference",
+    "reason": "few_models",
+    "num_models": 1
+  },
+  {
+    "sample_id": "mtbench-reference.dev.13",
+    "benchmark": "mtbench-reference",
+    "reason": "few_models",
+    "num_models": 0
+  },
+  {
+    "sample_id": "mtbench-reference.dev.2",
+    "benchmark": "mtbench-reference",
+    "reason": "few_models",
+    "num_models": 2
+  },
+  {
+    "sample_id": "mtbench-reference.dev.1",
+    "benchmark": "mtbench-reference",
+    "reason": "few_models",
+    "num_models": 1
+  },
+  {
+    "sample_id": "mtbench-reference.dev.16",
+    "benchmark": "mtbench-reference",
+    "reason": "few_models",
+    "num_models": 0
+  },
+  {
+    "sample_id": "mtbench-reference.dev.7",
+    "benchmark": "mtbench-reference",
+    "reason": "few_models",
+    "num_models": 0
+  },
+  {
+    "sample_id": "mtbench-reference.dev.11",
+    "benchmark": "mtbench-reference",
+    "reason": "few_models",
+    "num_models": 1
+  },
+  {
+    "sample_id": "mtbench-reference.dev.6",
+    "benchmark": "mtbench-reference",
+    "reason": "few_models",
+    "num_models": 0
+  },
+  {
+    "sample_id": "mtbench-reference.dev.8",
+    "benchmark": "mtbench-reference",
+    "reason": "few_models",
+    "num_models": 0
+  },
+  {
+    "sample_id": "mtbench-reference.dev.10",
+    "benchmark": "mtbench-reference",
+    "reason": "few_models",
+    "num_models": 0
+  },
+  {
+    "sample_id": "mtbench-reference.dev.12",
+    "benchmark": "mtbench-reference",
+    "reason": "few_models",
+    "num_models": 0
+  },
+  {
+    "sample_id": "mtbench-reference.dev.3",
+    "benchmark": "mtbench-reference",
+    "reason": "few_models",
+    "num_models": 1
+  },
+  {
+    "sample_id": "mtbench-reference.dev.15",
+    "benchmark": "mtbench-reference",
+    "reason": "few_models",
+    "num_models": 1
+  },
+  {
+    "sample_id": "mtbench-reference.dev.18",
+    "benchmark": "mtbench-reference",
+    "reason": "few_models",
+    "num_models": 2
+  },
+  {
+    "sample_id": "mtbench-reference.dev.14",
+    "benchmark": "mtbench-reference",
+    "reason": "few_models",
+    "num_models": 2
+  },
+  {
+    "sample_id": "mtbench.dev.20",
+    "benchmark": "mtbench",
+    "reason": "few_models",
+    "num_models": 1
+  },
+  {
+    "sample_id": "mtbench.dev.12",
+    "benchmark": "mtbench",
+    "reason": "few_models",
+    "num_models": 2
+  },
+  {
+    "sample_id": "mtbench.dev.2",
+    "benchmark": "mtbench",
+    "reason": "few_models",
+    "num_models": 0
+  },
+  {
+    "sample_id": "mtbench.dev.24",
+    "benchmark": "mtbench",
+    "reason": "few_models",
+    "num_models": 1
+  },
+  {
+    "sample_id": "mtbench.dev.17",
+    "benchmark": "mtbench",
+    "reason": "few_models",
+    "num_models": 1
+  },
+  {
+    "sample_id": "mtbench.dev.38",
+    "benchmark": "mtbench",
+    "reason": "few_models",
+    "num_models": 1
+  },
+  {
+    "sample_id": "mtbench.dev.23",
+    "benchmark": "mtbench",
+    "reason": "few_models",
+    "num_models": 0
+  },
+  {
+    "sample_id": "mtbench.dev.1",
+    "benchmark": "mtbench",
+    "reason": "few_models",
+    "num_models": 0
+  },
+  {
+    "sample_id": "mtbench.dev.28",
+    "benchmark": "mtbench",
+    "reason": "few_models",
+    "num_models": 2
+  },
+  {
+    "sample_id": "mtbench.dev.10",
+    "benchmark": "mtbench",
+    "reason": "few_models",
+    "num_models": 0
+  },
+  {
+    "sample_id": "mtbench.dev.11",
+    "benchmark": "mtbench",
+    "reason": "few_models",
+    "num_models": 0
+  },
+  {
+    "sample_id": "mtbench.dev.27",
+    "benchmark": "mtbench",
+    "reason": "few_models",
+    "num_models": 0
+  },
+  {
+    "sample_id": "test-match.s1.2",
+    "benchmark": "test-match",
+    "reason": "all_models_wrong",
+    "num_models": 11
+  }
+]
