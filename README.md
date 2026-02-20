@@ -5,9 +5,9 @@ Files and guides to reproduce the experiments of the paper "Cost-Effective Large
 ## 📝 Authors
 Mukeun Choi_1 and Taeyeon Oh_2*
 
-* 1 Seoul AI School, aSSIST University, Seoul, Republic of Korea
-* 2 Seoul AI School, aSSIST University, Seoul, Republic of Korea
-* *Corresponding Author
+* 1 : Seoul AI School, aSSIST University, Seoul, Republic of Korea
+* 2 : Seoul AI School, aSSIST University, Seoul, Republic of Korea
+* * : Corresponding Author
 
 ## 📦 File Path
 
